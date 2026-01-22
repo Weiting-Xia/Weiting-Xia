@@ -9,6 +9,8 @@ hey there! i’m Weiting, a data analytics graduate student passionate about tur
 - 📦 Inventory Optimization and Replenishment Analysis (Python)
 - 🌱 Data-Driven User Engagement Optimization in Green Marketing (Machine Learning)
 - 🧪 RedNote Landing Lift A/B Test (Python)
+
+check out my [portfolio](https://weiting-xia.vercel.app) to see more.
 ## want to connect?
 -  website: https://weiting-xia.vercel.app
 -  linkedIn: https://www.linkedin.com/in/your-link
