@@ -1,4 +1,4 @@
-hey there! i’m weiting, a data analytics graduate student passionate about turning data into clear insights and well-designed dashboards. with 2+ years of experience as a data analyst, i’ve worked at Apple, MUJI, and EY.
+hey there👋! i’m weiting, a data analytics graduate student passionate about turning data into clear insights and well-designed dashboards. with 2+ years of experience as a data analyst, i’ve worked at Apple, MUJI, and EY.
 
 ## what i do
 -  build dashboards and data visualizations (Tableau, Power BI)
